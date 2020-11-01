@@ -1,4 +1,5 @@
 # Erlang Tutorial - OSCON 2014
+### Video: https://www.youtube.com/watch?v=WfA2OvqpScw
 
 We'll be using this project during the tutorial. If you plan on following
 along, you'll need this project.
