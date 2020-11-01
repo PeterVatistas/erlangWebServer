@@ -1,6 +1,6 @@
 -module(hello).
 
--export([say_once/0, say_repeating/0]).
+-export([say/0, say_repeating/0]).
 
 say() ->
     io:format("Hello!~n").
