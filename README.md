@@ -1,5 +1,6 @@
-# Erlang Tutorial - OSCON 2014
-### Video: https://www.youtube.com/watch?v=WfA2OvqpScw
+# From Garrett's talk @ OSCON 2014
+#### Building a Massively Scalable Web Server In Erlang Garrett
+##### Video: https://www.youtube.com/watch?v=WfA2OvqpScw
 
 We'll be using this project during the tutorial. If you plan on following
 along, you'll need this project.
